@@ -10,7 +10,7 @@
 
 setup & features
 
-* C# GUI INTERFACE 
+* C# GUI Interface 
 
 * Setting up visual studio & visual c#
 
