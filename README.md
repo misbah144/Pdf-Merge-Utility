@@ -8,7 +8,7 @@
 
 
 
-setup & features
+Setup & Features
 
 * C# GUI Interface 
 
